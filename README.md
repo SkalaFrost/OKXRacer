@@ -12,11 +12,11 @@
 
 2. Open cmd (terminal) and enter:
    ```
-   git clone https://github.com/meKryztal/okxrace.git
+   git clone https://github.com/shinz1/OKXRacer.git
    ```
    
    ```
-   cd okxrace
+   cd OKXRacer
    ```
 3. Install the modules:
    
@@ -46,3 +46,5 @@ You may see `query_id=` or `user=`; there is no difference.
 
 # How to get query_id:
 Go to Telegram Web, open the bot, press F12 (or right-click and select "Inspect" in the desktop version), go to the Network tab, start the bot in the web version or reload the page in the desktop version, and look for a request with the name `tasks`. In the right column, find `query_id=xxxxxxxxxx` or `user=xxxxxxxxxx`.
+
+# Support: [Tg channel](https://t.me/+oP6CHRAGQsI3Njdl)
