@@ -12,11 +12,11 @@
 
 2. Open cmd (terminal) and enter:
    ```
-   git clone [https://github.com/shinz1/OKXRacer-.git)]
+   git clone https://github.com/shinz1/OKXRacer.git
    ```
    
    ```
-   cd OKXRacer-
+   cd OKXRacer
    ```
 3. Install the modules:
    
